@@ -1,0 +1,34 @@
+﻿vegetable name,area,from,to,price
+Beetroot,Coimbatore,August,November,10
+Beetroot,Karur,August,November,15
+Beetroot,Namakkal,August,November,20
+Bitter Gourd,Coimbatore,November,December,20
+Bitter Gourd,Karur,November,December,22
+Bitter Gourd,Namakkal,November,December,18
+Bitter Gourd,Coimbatore,December,January,18
+Bitter Gourd,Karur,December,January,22
+Bitter Gourd,Namakkal,December,January,30
+Bitter Gourd,Coimbatore,June,July,20
+Bitter Gourd,Karur,June,July,25
+Bitter Gourd,Namakkal,June,July,30
+Cabbage,Coimbatore,June,July,7
+Cabbage,Karur,June,July,5
+Cabbage,Namakkal,June,July,8
+Cabbage,Coimbatore,October,November,8
+Cabbage,Karur,October,November,5
+Cabbage,Namakkal,October,November,4
+Capsicum,Coimbatore,January,February,20
+Capsicum,Karur,January,February,25
+Capsicum,Namakkal,January,February,27
+Capsicum,Coimbatore,May,June,25
+Capsicum,Karur,May,June,20
+Capsicum,Namakkal,May,June,25
+Capsicum,Coimbatore,October,November,20
+Capsicum,Karur,October,November,30
+Capsicum,Namakkal,October,November,22
+Carrot ,Coimbatore,August,November,22
+Carrot ,Karur,August,November,25
+Carrot ,Namakkal,August,November,24
+Cucumber,Coimbatore,June,July,10
+Cucumber,Karur,June,July,11
+Cucumber,Namakkal,June,July,13
