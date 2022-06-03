@@ -1,2 +1,3 @@
 #Agricultural products price prediction
-https://agricultural-products.herokuapp.com
+
+https://crop-price-prediction-1.herokuapp.com/predict
